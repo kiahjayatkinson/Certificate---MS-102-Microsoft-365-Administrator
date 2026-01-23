@@ -19,4 +19,4 @@ Through this course, I strengthened my expertise in:
 - Data Protection: Data Loss Prevention (DLP), data security frameworks, data governance, and handling Personally Identifiable Information (PII).
 - Cloud Infrastructure: Microsoft Azure administration, cloud security principles, and multi-tenant cloud environment management.
 
-Next, I will sit for the MS-102 exam to earn my Microsoft 365 Administrator Expert certification and validate my understanding of Microsoft 365 administration.
+Next, I will sit for the MS-102 exam to earn my Microsoft 365 Administrator Expert certification.
